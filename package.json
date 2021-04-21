@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "colorts": "^0.1.63",
+    "csv-parser": "^3.0.0",
+    "json-2-csv": "^3.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35"
+  },
+  "scripts": {
+    "dev": "nodemon merge.ts"
+  }
+}
